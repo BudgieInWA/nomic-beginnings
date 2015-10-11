@@ -6,11 +6,9 @@ Nomic is a game in which changing the rules is a move. In that respect it differ
 This Repo
 =========
 
-This repository is a template and set of initial rules for playing a game of correspondence nomic hosted on github. The initial set of rules are very similar to the [initial rules provided by the game's author](http://legacy.earlham.edu/~peters/writing/nomic.htm#initial%20set), Peter Suber, with slight modification so as to fit more comfortably within github.
+This repository is an instance of the game. Check out the issues and pull requests to see the current state of play.
 
 How To Play
 ===========
 
-Before the game starts:
-1. Create a game specific repo by forking this repo.
-1. Grant each player write access to the game repo.
+Head over to [issue #1](https://github.com/BudgieInWA/nomic-beginnings/issues/1) to introduce youself.
