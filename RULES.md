@@ -51,9 +51,7 @@ Rules of Play
 **116.** *immutable.* Whatever is not prohibited or regulated by a rule is permitted and unregulated, with the sole exception of changing the rules (or the contents of the RULES.md in the master branch), which is permitted only when a rule or set of rules explicitly or implicitly permits it.
 
 
-**201.** *mutable.* Players shall alternate in clockwise order, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
-
-In mail and computer games, players shall alternate in alphabetical order by surname.
+**201.** *mutable.* Players shall alternate in alphabetical order by username, taking one whole turn apiece. Turns may not be skipped or passed, and parts of turns may not be omitted. All players begin with zero points.
 
 
 **202.** *mutable.* One turn consists of two parts in this order: (1) proposing one rule-change and having it voted on, and (2) adding the value of the first digit of the merge commit to one's score.
