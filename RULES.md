@@ -104,4 +104,4 @@ New Judges are not bound by the decisions of old Judges. New Judges may, however
 This rule takes precedence over every other rule determining the winner. 
 
 
-**302.** *mutable.* A new player may be admitted into the game by a vote. Every eligible voter must vote and the player is admitted if and only if the vote it unanimous. 
+**302.** *mutable.* A new player may be admitted into the game by a vote. Every eligible voter must vote and the player is admitted if and only if the vote is unanimous. 
